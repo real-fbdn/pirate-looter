@@ -1,4 +1,4 @@
 <h1 align="center"> Pirate Looter </h1> 
-<p align= "center"> <kbd> <img  src="https://i.imgur.io/gallery/rdaQRDU"width="420"> </kbd><br><br>
+![Pirate Looter](https://github.com/real-fbdn/pirate-looter/blob/main/img/R.png?raw=true)
 
 An advanced, lightweight grabber for discord, roblox and much more.
