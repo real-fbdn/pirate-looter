@@ -15,4 +15,4 @@
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 <h2 align="center"> An advanced, lightweight grabber for discord, roblox and much more. </h2>
 <h2 align="center"> code created by: </h1> 
-<p align="center"><a href="https://github.com/real-fbdn" target="_blank">fbdn</a></p><p align="center"><a href="https://github.com/addi00000" target="_blank">addi00000</a></p>
+<p align="center"><a href="https://github.com/real-fbdn" target="_blank">fbdn</a></p>
