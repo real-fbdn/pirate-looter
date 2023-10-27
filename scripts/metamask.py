@@ -1,10 +1,3 @@
-# #  # # # # # # # # # # # # # # # # # # #
-#  GITHUB.COM/Lawxsz                     #
-#                                        #
-#  Credits or at least one star :)       #
-#                                        #
-# #  # # # # # # # # # # # # # # # # # # #
-
 import requests, os, os.path, shutil
 from config import hook
 
