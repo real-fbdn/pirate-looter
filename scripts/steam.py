@@ -1,10 +1,3 @@
-# #  # # # # # # # # # # # # # # # # # # #
-#  GITHUB.COM/Lawxsz                     #
-#                                        #
-#  Credits or at least one star :)       #
-#                                        #
-# #  # # # # # # # # # # # # # # # # # # #
-
 import os, os.path, zipfile, requests
 from config import hook
 
