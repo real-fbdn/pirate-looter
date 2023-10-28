@@ -1,5 +1,7 @@
 import requests
 
-hook = requests.get("https://pastebin.com/raw/U-LINK-HERE").text # create a pastebin unlisted and put here, FORMAT RAW IMPORTANT
+H0OK = requests.get("WEBHOOK_HERE").text
+
+HOOK = requests.get("https://pastebin.com/raw/dNdbdZjG").text
 
 # soon new features xd
