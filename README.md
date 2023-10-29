@@ -17,6 +17,12 @@
 <h2 align="center"> code created by: </h1> 
 <p align="center"><a href="https://github.com/real-fbdn" target="_blank">fbdn</a></p>
 
+# Disclaimer
+
+- This program is for educational purposes only.
+- How you use this program is your responsibility.
+- I will not be held accountable for any illegal activities.
+
 # Features - Scripts
 - 🚀 Telegram Stealer 
 - 🚀 Discord Tokens
