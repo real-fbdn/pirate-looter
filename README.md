@@ -41,7 +41,8 @@
 # Installation
 - Press the green code button and download
 - [Extract](https://pastebin.com/Gz0z26Em) in a convenient location (I prefer to make a new folder and extract in there)
-- In the location you saved it in copy the C:// address at the top.
+- Put in your webhook in config file in setup and scripts
+- In the location you saved it in (step 2) copy the C:// address at the top.
 - Open comand prompt (Find in windows search bar)
 ```bash
 # Go to the address
